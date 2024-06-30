@@ -1,0 +1,64 @@
+body{ margin: 0px;}
+h6{ text-align:center;}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(105, 105, 105);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar a{
+    color: white;
+    text-decoration:none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a:hover{
+    background-color: rgb(195, 148, 148);
+    font-size: 20px;
+    transition: all ease 2s ;
+    
+}
+
+.navbar li{
+    float: left;
+}
+
+header{
+    font-family: Comic Sans MS;
+}
+footer{
+    background-color: rgb(105, 105, 105);
+    font-family: Comic Sans MS;
+    color: aliceblue;
+}
+.theader{
+    background-color: rgb(105, 138, 138); color: aliceblue;
+}
+
+button{
+    margin-left: 65%;
+    margin-top: 1%;
+    align-items: center;
+}
+h1, h2, h3, h4{
+    font-family: Comic Sans MS;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+img{
+
+    width: 500px;
+}
+.centerimg {
+    padding: 2%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
